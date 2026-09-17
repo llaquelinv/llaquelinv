@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hi, I’m Llaquelin Ventura!
 
-<!--
-**llaquelinv/llaquelinv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Information Systems student at the University of Houston with a minor in Business Administration. I'm interested in healthcare analytics, business analysis, and process improvement.
 
-Here are some ideas to get you started:
+## Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+SQL • Power BI • Excel • Python • MySQL • Lean Six Sigma
+
+## Featured Project
+
+### Healthcare Fax Operations Dashboard
+
+Analyzed 500 synthetic healthcare fax records using Excel, MySQL, Power BI, and DAX to evaluate workload, processing time, and authorization delays.
+
+[View the project](https://github.com/llaquelinv/healthcare-fax-operations-dashboard)
+
+## Connect With Me
+
+[LinkedIn](PASTE-YOUR-LINKEDIN-URL) • [Email](mailto:venturallaquelin@gmail.com)
