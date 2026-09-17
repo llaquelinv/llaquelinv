@@ -1,8 +1,9 @@
-## Hi, I’m Llaquelin Ventura!
+# Hi, I’m Llaquelin Ventura!
 
-I'm a Computer Information Systems student at the University of Houston with a minor in Business Administration. I'm interested in healthcare analytics, business analysis, and process improvement.
+👩🏻‍💻 I'm a Computer Information Systems student at the University of Houston with a minor in Business Administration.<br>
+📊 I'm interested in healthcare analytics, business analysis, and process improvement.
 
-## Skills
+# 💻 Tech Stack
 
 SQL • Power BI • Excel • Python • MySQL • Lean Six Sigma
 
@@ -16,6 +17,6 @@ Analyzed 500 synthetic healthcare fax records using Excel, MySQL, Power BI, and 
 
 ## Connect With Me
 
-[LinkedIn](PASTE-YOUR-LINKEDIN-URL) • [Email](mailto:venturallaquelin@gmail.com)
+[LinkedIn](linkedin.com/in/llaquelin-ventura ) 
 
 [![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=llaquelinv)](https://github.com/stats-organization/github-stats-extended)
