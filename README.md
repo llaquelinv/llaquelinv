@@ -17,3 +17,5 @@ Analyzed 500 synthetic healthcare fax records using Excel, MySQL, Power BI, and 
 ## Connect With Me
 
 [LinkedIn](PASTE-YOUR-LINKEDIN-URL) • [Email](mailto:venturallaquelin@gmail.com)
+
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=llaquelinv)](https://github.com/stats-organization/github-stats-extended)
