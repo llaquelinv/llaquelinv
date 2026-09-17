@@ -11,4 +11,3 @@
 **Other:** Lean Six Sigma, Node.js, Express
 
 
-[LinkedIn](www.linkedin.com/in/llaquelin-ventura)
