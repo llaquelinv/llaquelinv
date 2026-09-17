@@ -9,3 +9,6 @@
 **Data & Analytics:** SQL, Power BI, Excel, DAX, MySQL  
 **Programming:** Python, JavaScript, HTML, CSS  
 **Other:** Lean Six Sigma, Node.js, Express
+
+
+[LinkedIn](www.linkedin.com/in/llaquelin-ventura)
